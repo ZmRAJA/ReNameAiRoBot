@@ -1,14 +1,14 @@
 from pyrogram import Client, types
 from pyrogram.file_id import FileId
 import logging
-from MeshRenameBot.core.get_config import get_var
+from RenameAibot.core.get_config import get_var
 
 renamelog = logging.getLogger(__name__)
 
 # Diff File
 
 
-class MeshRenameBot(Client):
+class RenameAibot(Client):
     async def get_file_id(self, message):
         available_media = ("audio", "document", "photo", "sticker", "animation", "video", "voice", "video_note",
                            "new_chat_photo")
