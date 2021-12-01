@@ -1,4 +1,4 @@
-# Mesh Rename Bot
+#  Rename AI Bot
 
 This bot has a concept of filters which allows to auto-rename the files. This bot is aimed to be the best rename bot around. 
 
