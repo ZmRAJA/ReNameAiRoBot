@@ -1,5 +1,5 @@
 from os import rename
-from MeshRenameBot.core.get_config import get_var
+from RenameAibot.core.get_config import get_var
 from pyrogram import Client, filters
 from pyrogram.handlers import MessageHandler, CallbackQueryHandler
 from pyrogram.types import Message, InlineKeyboardButton, InlineKeyboardMarkup
