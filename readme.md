@@ -20,7 +20,7 @@ Use of filters is easy just do what the bot says.
 
 # Deploy to Heroku
 
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/yash-dk/Mesh-RenameBot)
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/zmraj/renamerobot.git)
 
 
 # Upcoming Features
@@ -89,12 +89,4 @@ update the config.py file inside the MeshRenameBot to change the config and comm
 
 `/queue` - Gives the state of your rename and the load on bot.
 
-# For VPS Deploy
-- Install ffmpeg and python.
-- Run the bot using `python3 -m MeshRenameBot` or `python -m MeshRenameBot`
-
-# Credits
-[Me](https://github.com/yash-dk)
-
-[Dan for Pyrogram](https://github.com/pyrogram/pyrogram)
-
+ 
