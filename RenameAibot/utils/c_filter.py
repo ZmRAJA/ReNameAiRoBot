@@ -5,7 +5,7 @@ from pyrogram.types import InlineKeyboardButton, InlineKeyboardMarkup
 import json
 import time
 from ..translations.trans import Trans
-from MeshRenameBot.translations import trans
+from RenameAibot.translations import trans
 from typing import Union
 
 
