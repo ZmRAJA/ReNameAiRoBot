@@ -1,6 +1,6 @@
 from .core.get_config import get_var
 from .core.handlers import add_handlers
-from .mesh_bot import RenameAibot
+from .Rename_Aibot import RenameAibot
 from . maneuvers.ExecutorManager import ExecutorManager
 import logging
 
