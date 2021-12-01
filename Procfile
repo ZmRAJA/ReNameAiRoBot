@@ -1,1 +1,1 @@
-worker: python -m MeshRenameBot
+worker: python -m RenameAibot
